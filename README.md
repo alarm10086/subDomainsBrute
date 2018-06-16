@@ -21,7 +21,7 @@ You can get older versions via [https://github.com/lijiejie/subDomainsBrute/rele
 
 
 ## Usage ##
-	Usage: subDomainsBrute.py [options] target.com
+	Usage: python3 subDomainsBrute.py [options] target.com
 	Options:
 	  --version             show program's version number and exit
 	  -h, --help            show this help message and exit
